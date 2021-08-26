@@ -90,3 +90,4 @@ para rodar o flake8
 $ pip install -e ./templatenewproject/
 ```
 
+-lembrar de criar __version__ = '0.1' em __init__.py
