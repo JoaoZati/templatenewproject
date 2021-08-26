@@ -41,3 +41,13 @@ $ pip freeze
 ```
 
 #5) Criação do templatenewproject e do github_api para usar o request como exemplo:
+
+#6) Criação do requirements.txt com comando:
+```buildoutcfg
+$ pip freeze > requirements.txt
+```
+para outros programadores usarem, será apenas necessário rodar o codigo no terminal:
+```buildoutcfg
+$ pip install -r requirements.txt
+```
+
