@@ -31,5 +31,13 @@ $ python2 -m virtualenv .venv
 ```
 
 
+#4) Instalando a biblioteca request para testar na virtual venv
+```buildoutcfg
+$ pip install requests
+```
+-Verificar se funcionou:
+```buildoutcfg
+$ pip freeze
+```
 
-
+#5) Criação do templatenewproject e do github_api para usar o request como exemplo:
