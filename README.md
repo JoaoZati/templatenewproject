@@ -66,4 +66,5 @@ $ flake8
 ```
 para rodar o flake8
 
-#10) Integração com o travis ci
+#10) Integração com o travis ci:
+-travis serve para verificar se o codigo de pull request dos camaradas está de acordo.
