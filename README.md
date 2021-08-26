@@ -107,3 +107,6 @@ $ pip install twine
 $ twine upload dist/*
 ```
 
+#15) Gerado versao 0.2 com MANIFEST.in:
+
+- nota no meu n precisou para rodar na versao 0.1 como a do renzo
