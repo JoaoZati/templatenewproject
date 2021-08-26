@@ -99,3 +99,11 @@ $ git tag 0.1
 ```buildoutcfg
 $ git push --tags
 ```
+
+#14)Mandar no Pypi:
+```buildoutcfg
+$ python setup.py sdist
+$ pip install twine
+$ twine upload dist/*
+```
+
