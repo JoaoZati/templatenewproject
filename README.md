@@ -4,12 +4,19 @@ Template de como criar um projeto do zero de python no git.
 [![Build Status](https://app.travis-ci.com/JoaoZati/libpythonpro.svg?branch=master)](https://app.travis-ci.com/JoaoZati/libpythonpro)
 
 #1) Utilização do git:
+
 -Criando repositório;
+
 -Criando chave ssh;
+
 -Criação de forks;
+
 -Commit and Push no Pycharm;
+
 -Realização de Pull Requests;
+
 -Feature Branch (origin, remote);
+
 -Gerenciando Branch e conflitos;
 
 #2) Atualizar .gitgnore para não utilizar .idea
@@ -20,11 +27,14 @@ $ git config --global core.excludesfile ~/.gitignore_global
 ```
 
 #3) Criar virtualenv na pasta .venv
+
 -No Pycharm em settings > Project > Python Interpreter
+
 -via terminal utilizando o comando (Versão em Python 3):
 ```buildoutcfg
 $ python -m venv .venv
 ```
+
 (nota: na linha de comando podemos usar qualquer versão python utililando o pyenv)
 
 -via terminal utilizando o comando (Versão em Python 2):
@@ -67,4 +77,5 @@ $ flake8
 para rodar o flake8
 
 #10) Integração com o travis ci:
+
 -travis serve para verificar se o codigo de pull request dos camaradas está de acordo.
