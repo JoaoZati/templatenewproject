@@ -51,3 +51,15 @@ para outros programadores usarem, será apenas necessário rodar o codigo no ter
 $ pip install -r requirements.txt
 ```
 
+#7) Flake8 (biblioteca de desenvolvimento para saber se o projeto está conforme a PEP 8)
+```buildoutcfg
+$ pip install flake8
+```
+
+#8) Fazer pip freeze pararequirements-dev.txt (-r requirements.txt)
+
+#9) Criar arquivo .flake8:
+```buildoutcfg
+$ flake8
+```
+para rodar o flake8
