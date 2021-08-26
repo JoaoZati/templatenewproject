@@ -1,6 +1,8 @@
 # templatenewproject
 Template de como criar um projeto do zero de python no git.
 
+[![Build Status](https://app.travis-ci.com/JoaoZati/libpythonpro.svg?branch=master)](https://app.travis-ci.com/JoaoZati/libpythonpro)
+
 #1) Utilização do git:
 -Criando repositório;
 -Criando chave ssh;
@@ -63,3 +65,5 @@ $ pip install flake8
 $ flake8
 ```
 para rodar o flake8
+
+#10) Integração com o travis ci
