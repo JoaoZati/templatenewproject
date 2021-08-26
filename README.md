@@ -91,3 +91,12 @@ $ pip install -e ./templatenewproject/
 ```
 
 -lembrar de criar __version__ = '0.1' em __init__.py
+
+#13)Criar Release github:
+```buildoutcfg
+$ git tag 0.1
+```
+```buildoutcfg
+$ git push --tags
+```
+
