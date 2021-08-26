@@ -82,3 +82,11 @@ para rodar o flake8
 #10) Integração com o travis ci:
 
 -travis serve para verificar se o codigo de pull request dos camaradas está de acordo.
+
+#11) Criar arquivo setup.py
+
+#12)testar a biblioteca com o codigo no terminal (uma pasta acima):
+```buildoutcfg
+$ pip install -e ./templatenewproject/
+```
+
