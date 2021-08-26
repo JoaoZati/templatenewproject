@@ -2,6 +2,9 @@
 Template de como criar um projeto do zero de python no git.
 
 [![Build Status](https://app.travis-ci.com/JoaoZati/libpythonpro.svg?branch=master)](https://app.travis-ci.com/JoaoZati/libpythonpro)
+[![Updates](https://pyup.io/repos/github/JoaoZati/templatenewproject/shield.svg)](https://pyup.io/repos/github/JoaoZati/templatenewproject/)
+[![Python 3](https://pyup.io/repos/github/JoaoZati/templatenewproject/python-3-shield.svg)](https://pyup.io/repos/github/JoaoZati/templatenewproject/)
+
 
 #1) Utilização do git:
 
